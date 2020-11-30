@@ -1,0 +1,1 @@
+program1 - creates random elements. Find which are multiple thereof to 5, sum them and count.
